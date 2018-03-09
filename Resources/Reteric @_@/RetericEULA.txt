@@ -1,0 +1,34 @@
+Reteric @_@
+
+FREE PLUGIN FOR EXPLOIT WRITED IN PYTHON
+ONLY PUBLIC USE NOT FOR SALE
+OPEN-SOURCE CLOSED ON GITHUB
+NEW GIT POST COOMING SOON.
+
+
+#Changelog V.1.0.11.1.2
+
+**************************
+System Library Integrated in SysLib.lib
+Windows 10 Vun (0-X11000ABEAFF1) added
+Windows Vista Full Vulnerable
+Windows Xp Fucked :)  :(
+Windows 7 89% Vulnerable
+Windows 8 is a Shit ://
+Windows 10 32% Vulnerable
+Linux Ubuntu 18% Vulnerable
+
+****************************
+
+Server Distro Vulnerabilty
+
+***************************
+Linux Server Standard 68% Vulnerable
+Windows Server (8) 99% Vulnerable
+Windows Server (10) 57% Vulnerable
+Windows Server (2000) 100% Vulnerable
+Linux Server Premium 20% Vulnerable
+Linux Server Expert 3% Vulnerable
+Mac Os Server Only Standard 99% Vulnerable
+
+****************************
